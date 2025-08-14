@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.flats-homepage-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 120.75vh;
+}
+
+.flats-homepage-card {
+    background-color: #ffffff;
+    background-size: 100vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.flats-homepage-main-heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 27px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.flats-homepage-sub-heading {
+    color: #7b8794;
+    font-family: Bree Serif;
+    font-size: 18px;
+    margin-bottom: 17px;
+}
+
+.flats-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 12px;
+    font-weight: 400;
+    height: 32px;
+    width: 85px;
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 44px;
+    margin-top: 28px;
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    padding: 20px;
+}
+
+.flats-list-main-heading {
+    color: #f19116;
+    font-size: 27px;
+    font-family: Bree Serif;
+}
+
+.flats-list-card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.flats-list-card-image {
+    height: 29vh;
+    width: 14vh;
+}
+
+.flats-list-card-text-container {
+    padding: 15px;
+    padding-right: 2px;
+    margin-right: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.flats-list-card-heading {
+    color: #0f0e46;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Bree Serif;
+}
+
+.flats-list-card-description {
+    color: #6c6b70;
+    font-size: 13px;
+    font-family: Bree Serif;
+}
+
+.flats-list-margin {
+    margin-left: 16px;
+}
+
+.flat-description-bg-container {
+    background-color: #222222;
+    background-size: cover;
+}
+
+.flat-description-image {
+    height: 40vh;
+    width: 96vw;
+}
+
+.flat-description-text-container {
+    padding: 20px;
+}
+
+.flat-rent {
+    font-size: 23px;
+    color: #f19116;
+    font-family: Bree Serif;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.flat-location-image {
+    height: 3.75vh;
+    width: 5vw;
+    margin-right: 15px;
+}
+
+.flat-location {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 13.5px;
+    font-weight: 100;
+}
+
+.h-line {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.heading {
+    color: #f19116;
+    font-family: Bree Serif;
+    font-size: 23px;
+    font-weight: 100;
+}
+
+.flat-details {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 13.5px;
+    font-weight: 100;
+}
+
+
+.description-buttons {
+    margin-right: 8px;
+    margin-left: 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 12px;
+    font-weight: 400;
+    height: 32px;
+    width: 85px;
+    border-radius: 3px;
+    text-align: center;
+    padding: 6.75px;
+}
