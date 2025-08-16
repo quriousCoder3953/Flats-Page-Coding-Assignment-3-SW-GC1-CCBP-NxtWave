@@ -5,6 +5,9 @@ In this assignment, let's build the Sunrise Avenue page by applying the concepts
 
 Desired Output: -
 
+[▶ Watch the demo](https://github.com/quriousCoder3953/Flats-Page-Coding-Assignment-3-SW-GC1-CCBP-NxtWave/blob/main/media/flats-page-cass-3-sw-gc1.mp4)
+
+
 Check Output Here: -
 
 https://quriouscoder3953.github.io/Flats-Page-Coding-Assignment-3-SW-GC1-CCBP-NxtWave/
